@@ -65,6 +65,7 @@ server.shell(
 packages()
 
 # TODO:
+# fish git plugin
 # google chrome
 # vscode
 # jetbrains toolbox
